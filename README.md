@@ -90,7 +90,7 @@ uvicorn app:app --reload --app-dir server --port 8000
 
 ## 🌟 Focus Metrics Dashboard (Live Demo Preview)
 
-  
+<img width="1512" height="826" alt="Screenshot 2025-11-12 at 8 39 42 AM" src="https://github.com/user-attachments/assets/8eafa557-333f-4b1f-95f1-db100dc1962d" />
 
 
 
