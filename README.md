@@ -1,4 +1,4 @@
-# 🚀 MomentumOS — Focus Metrics Dashboard  
+#  MomentumOS — Focus Metrics Dashboard  
 [![Gemini AI](https://img.shields.io/badge/AI-Gemini-blueviolet?logo=google)](https://deepmind.google/technologies/gemini/)
 [![Google Cloud](https://img.shields.io/badge/Powered_by-Google_Cloud-red?logo=googlecloud)](https://cloud.google.com/)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-teal?logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -9,29 +9,29 @@
 
 ---
 
-## 🎯 Why This Project
+## Why This Project
 
 Modern professionals juggle multiple calendars, tools, and shifting priorities — losing sight of **focus metrics** that actually measure progress.  
 **MomentumOS** unifies this by integrating **Gemini AI**, **FastAPI**, and **React** to provide real-time insights into productivity patterns, schedule imports, and goal tracking.
 
-✅ Ideal recruiter hook:
+
 > *“Designed a full-stack productivity analytics platform integrating Google Gemini AI and external APIs (Google Calendar, WhenToWork) to visualize and automate weekly focus insights.”*
 
 ---
 
-## 🧩 Key Highlights
+## Key Highlights
 
 | Capability | Description |
 |-------------|-------------|
-| 🧠 **Gemini AI Coach** | Generates personalized productivity retrospectives and focus suggestions. |
-| 🗓 **Dual Calendar Sync** | Imports shifts from **WhenToWork** and events from **Google Calendar** directly into tasks. |
-| 📊 **Focus Metrics Dashboard** | Tracks completion %, cycle times, and on-time performance with AI summaries. |
-| ⚛️ **Intuitive React UI** | Clean, responsive MUI layout with color-coded task stages. |
-| ⚙️ **FastAPI Backend** | High-performance Python 3.13 backend managing tasks, metrics, and AI endpoints. |
+|  **Gemini AI Coach** | Generates personalized productivity retrospectives and focus suggestions. |
+|  **Dual Calendar Sync** | Imports shifts from **WhenToWork** and events from **Google Calendar** directly into tasks. |
+|  **Focus Metrics Dashboard** | Tracks completion %, cycle times, and on-time performance with AI summaries. |
+|  **Intuitive React UI** | Clean, responsive MUI layout with color-coded task stages. |
+|  **FastAPI Backend** | High-performance Python 3.13 backend managing tasks, metrics, and AI endpoints. |
 
 ---
 
-## 🧠 Architecture Overview
+##  Architecture Overview
 
 | Layer | Stack | Role |
 |-------|--------|------|
@@ -54,7 +54,7 @@ Modern professionals juggle multiple calendars, tools, and shifting priorities �
 
 ---
 
-## ⚙️ Tech Stack Summary
+##  Tech Stack Summary
 
 **Frontend:**  
 React (Vite + TypeScript), Material UI, Zustand, IndexedDB  
@@ -69,26 +69,26 @@ Google Gemini API, Google Calendar ICS, WhenToWork ICS
 
 ## 🧭 Setup Guide
 
-### 1️⃣ Clone
+### 1. Clone
 ```bash
 git clone https://github.com/farheen-shaikh530/focus-metrics-dashboard.git
 cd focus-metrics-dashboard
 ```
 
-2️⃣ Frontend
+2. Frontend
 ```bash
 npm install
 npm run dev
 ```
 
-3️⃣ Backend
+3. Backend
 ```bash
 cd server
 pip install -r requirements.txt
 uvicorn app:app --reload --app-dir server --port 8000
 ```
 
-## 🌟 Focus Metrics Dashboard (Live Demo Preview)
+## Engage Metrics Dashboard (Live Demo Preview): Full demo coming soon...
 
 <img width="1512" height="826" alt="Screenshot 2025-11-12 at 8 39 42 AM" src="https://github.com/user-attachments/assets/8eafa557-333f-4b1f-95f1-db100dc1962d" />
 
